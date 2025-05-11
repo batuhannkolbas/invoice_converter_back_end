@@ -1,0 +1,49 @@
+=== Extracted Text ===
+Store #05666
+
+3515 DEL MAR HTS,RD
+SAN DIEGO, CA 92130
+(858) 792-7040
+
+Register #4 Transaction #571140
+Cashier #56661020 8/20/17 5:45PM
+
+wellness+ with Plenti
+Plenti Card#: 31XXXXXXXXXX4553
+1 G2 RETRACT BOLD BLK 2PK 1.99 T
+SALE 1/1.99, Reg 1/4.69
+Discount 2.70-
+
+1 Items Subtotal 1.99
+Tax .15
+
+. Total 2.14
+xMASTER* 2.14
+
+MASTER card * #XXXXXXXXXXXXS48S
+App #AA APPROVAL AUTO
+
+Ref # O5639E
+
+Entry Method: Chip
+
+
+--- spaCy Entities ---
+3515 - CARDINAL
+DEL MAR HTS - ORG
+SAN DIEGO - GPE
+CA 92130 - ORG
+858 - CARDINAL
+792 - CARDINAL
+#4 Transaction - MONEY
+Plenti
+Plenti Card - ORG
+31XXXXXXXXXX4553 - CARDINAL
+1 - CARDINAL
+BLK 2PK - ORG
+1.99 - CARDINAL
+1/1.99 - CARDINAL
+1.99 - CARDINAL
+2.14 - CARDINAL
+2.14 - CARDINAL
+# - CARDINAL

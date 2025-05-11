@@ -1,0 +1,30 @@
+=== Extracted Text ===
+INVOICE TEMPLATE
+
+Restaurant - Breakfast
+
+@ MARCH 01-2020
+NUMBER 000001
+0 CL june 14-2020
+
+DESCRIPTION
+
+2 Coffee Name
+
+1 Drink Name
+
+1 Meal Name
+
+SUBTOTAL
+
+TOTAL DUE
+
+
+
+--- spaCy Entities ---
+MARCH 01-2020 - DATE
+000001 - CARDINAL
+june 14-2020 - DATE
+2 - CARDINAL
+1 - CARDINAL
+1 - CARDINAL

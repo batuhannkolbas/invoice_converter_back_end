@@ -1,0 +1,170 @@
+=== Extracted Text ===
+BATUHAN SEDAT KOLBAS
+
+Com cute Erginee
+
+5422879736 batuhankolbas@hotmail.com
+https://www.linkedin.com/in/batuhan-sedat-kolbas/
+KUgukgekmece,istanbul
+
+ABOUT ME
+
+Proactive and dynamic fourth grade Computer Engineering student at Bahcegehir University.
+Good at problem-solving and research. Having high level analytical intelligence. A perfect
+potential to be a leader and having the ability to make his team members better. Successful in
+his license with 3.49 GPA. Making his minor in Industrial Engineering/Optimization Programme.
+
+Interested in machine learning, data science and app development.
+
+EXPERIENCE
+
+Business Development Long Term 07/2024 - Present
+Intern
+
+G. att BBVA istanbul, Turkiye
+
+Key Achievements:
+
+« Supported staff members in their daily tasks, reducing workload burden and allowing for
+increased focus on higher-priority assignments.
+
+« Gained valuable experience working within a specific industry, applying learned concepts
+directly into relevant work situations.
+
+« Gained hands-on experience in various software programs such as Excel, Powerpoint, Miro and
+SQL programming language, increasing proficiency and expanding technical skill set.
+
++ Analyzed problems and worked with teams to develop solutions.
+
+« Conducted research for various projects, leading to well-informed decisions and successful
+outcomes.
+
+« Improved skills on project management and gained valuable experience on agile
+methodology
+
+EDUCATION
+
+Computer Engineering /Major - GPA:3.49 09/2020 - 06/2025
+
+i. owes th! C1 ve oly
+
+Industrial Engineering /Minor 02/2024 - 06/2025
+
+i. owes th! C1 ve oly
+
+CAPSTONE PROJECT
+
+Invoice Processing and Classification System with OCR 10/2024 - Present
+and Named Entity Recognition
+
+Project Status: Under Development
+
+Project Description:
+
+« The purpose of my Capstone Project is to design and develop an intelligent system that
+automates the processing of invoices using Optical Character Recognition (OCR)
+technology. The system will classify invoices based on their type and perform Named Entity
+Recognition (NER) to extract key information such as vendor name, invoice amount, and
+date. The project aims to provide a solution for companies seeking to reduce manual data
+entry tasks and improve operational efficiency in their accounting workflows.
+
+~
+4
+or
+
+id
+
+tel - 2s
+ad
+
+“aleji
+
+SKILLS & LANGUAG
+
+English/Upper Intermediate
+C++
+
+Java/Android Studio
+Python
+
+C#
+
+SQL
+
+BOOTCAMPS
+
+¥Y Google Game and Application
+Academy
+
+*Improved coding skills in C#
+*Gained knowledge about the
+concepts of the Unity game engine.
+*Had experience in teamwork and
+leadership.
+
+IBM ile Kodluyoruz CyberStart:
+
+*Gained valuable information on
+technical subjects such as Python
+Programming Language,
+Cybersecurity, Cloud Computing,
+Blockchain, Artificial Intelligence (Al)
+and Internet of Things (loT).
+
+T3 Foundation/Rising Stars
+*Improved Front-End skills by using
+React.
+
+*Learned academic research and
+review article writing.
+
+
+
+
+--- spaCy Entities ---
+BATUHAN - GPE
+Erginee - PERSON
+5422879736 - DATE
+KUgukgekmece - ORG
+istanbul - GPE
+fourth - ORDINAL
+Computer Engineering - ORG
+Bahcegehir University - ORG
+3.49 - CARDINAL
+GPA - ORG
+Industrial Engineering/Optimization Programme - ORG
+07/2024 - CARDINAL
+BBVA - GPE
+istanbul - GPE
+Turkiye - GPE
+daily - DATE
+Excel - PRODUCT
+Powerpoint - ORG
+Miro - PERSON
+SQL - ORG
+Computer Engineering - ORG
+C1 ve oly
+
+ - PERSON
+Industrial Engineering - ORG
+C1 ve oly
+
+ - PERSON
+OCR - ORG
+Development
+
+Project Description - ORG
+Capstone Project - ORG
+Optical Character Recognition - ORG
+OCR - ORG
+4 - CARDINAL
+SKILLS & LANGUAG - ORG
+English - LANGUAGE
+Y Google Game and Application
+Academy
+
+*Improved - ORG
+Unity - ORG
+IBM - ORG
+Python - ORG
+Cybersecurity, Cloud Computing - ORG

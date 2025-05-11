@@ -1,0 +1,60 @@
+=== Extracted Text ===
+INVOICE TEMPLATE
+
+Construction
+
+Date 08/012/2022 ID: 220-2445-4553-1
+
+Najima Construction B
+2071 Wilson St, Palo Verde California NAJ | MA
+
++00 123 456 789 CONSTRUCTION
+
+David Angelo
+
+2909 Austin Avenue, Brunswick
+
+912-263-5862 © @najimacons_
+
+PRODUCT/SERVICE INFORMATION
+
+Service 1 $50,00 $50,00
+Service 2 $70,00 $70,00
+Service 3 $100,00 $100,00
+
+Service 4 $200,00 $200,00
+
+Tax (10%) $42,00
+
+Total $378,00
+
+Terms & conditions
+
+* Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
+
+
+--- spaCy Entities ---
+220 - CARDINAL
+2071 - CARDINAL
+Wilson St - PERSON
+Palo Verde - GPE
+123 - CARDINAL
+David Angelo
+
+ - PERSON
+Austin Avenue - FAC
+Brunswick - GPE
+912 - CARDINAL
+1 $50,00 $50,00 - MONEY
+3 $100,00 $100,00
+
+ - MONEY
+4 $200,00 $200,00 - MONEY
+10% - PERCENT
+Lorem - ORG
+consectetur adipisicing elit - PERSON
+tempor incididunt ut labore - ORG
+minim - ORG
+laboris nisi ut aliquip - ORG
