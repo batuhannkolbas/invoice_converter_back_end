@@ -1,17 +1,11 @@
 === Extracted Text ===
-Brand Name
-
+O Brand Name
 TAGLINE SPACE HERE
-
-Invoice to:
-
-Invoice# 52148
-Dwyane Clark
+Invoice to: | ice#
+Dwyane Clark nvoice 52148
 24 Dummy Street Area, Date: 01 / 02 / 2020
-
 Location, Lorem Ipsum,
-570xx59x
-
+570xxS9x
 SL. Item Description Price Qty. Total
 1 Lorem Ipsum Dolor $50.00 1 $50.00
 2 Pellentesque id neque ligula $20.00 3 $60.00
@@ -19,27 +13,24 @@ SL. Item Description Price Qty. Total
 4 Vivamus volutpat faucibus $90.00 1 $90.00
 Thank you for your business Sub Total: $220.00
 Payment Info: Tax: 0.00%
-Account #: 1234 5678 9012
-A/C Name: Lorem Ipsum
-Bank Details: Add your details Tota I: $220.00
-
+Account #: 1234 5678 9012 ————ÂH———— ——
+A/C Name: Lorem Ipsum .
+Bank Details: Add your details Total: $220.00
 Terms & Conditions
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
 dignissim pretium consectetur. Curabitur tempor posuere massa in
 varius. Pellentesque viverra nibh eu vehicula mattis. Nullam porta
-
 Authorised Sign
 
-
 --- spaCy Entities ---
-52148 - MONEY
 Dwyane Clark - PERSON
+52148 - CARDINAL
 24 - CARDINAL
 Dummy Street Area - FAC
 01 / 02 / - DATE
+Location - ORG
 Lorem Ipsum - ORG
-570xx59x - ORG
+570xxS9x - CARDINAL
 SL - ORG
 1 - CARDINAL
 Lorem Ipsum Dolor - ORG
@@ -60,9 +51,7 @@ Vivamus - PRODUCT
 220.00 - MONEY
 0.00% - PERCENT
 1234 - CARDINAL
-Lorem Ipsum
-Bank Details - PERSON
-Tota - PERSON
+Lorem Ipsum - PERSON
 220.00 - MONEY
 Lorem - ORG
 consectetur adipiscing elit - PERSON

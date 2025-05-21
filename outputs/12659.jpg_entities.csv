@@ -1,0 +1,36 @@
+text,label
+Dwyane Clark,PERSON
+52148,CARDINAL
+24,CARDINAL
+Dummy Street Area,FAC
+01 / 02 /,DATE
+Location,ORG
+Lorem Ipsum,ORG
+570xxS9x,CARDINAL
+SL,ORG
+1,CARDINAL
+Lorem Ipsum Dolor,ORG
+50.00,MONEY
+50.00,MONEY
+2,CARDINAL
+Pellentesque,NORP
+20.00,MONEY
+60.00,MONEY
+3,CARDINAL
+Interdum,NORP
+10.00,MONEY
+20.00,MONEY
+4,CARDINAL
+Vivamus,PRODUCT
+90.00,MONEY
+90.00,MONEY
+220.00,MONEY
+0.00%,PERCENT
+1234,CARDINAL
+Lorem Ipsum,PERSON
+220.00,MONEY
+Lorem,ORG
+consectetur adipiscing elit,PERSON
+Pellentesque,NORP
+nibh eu vehicula mattis,PERSON
+Nullam porta,PERSON

@@ -1,0 +1,208 @@
+=== Extracted Text ===
+Version 2021.05.12
+Capstone checklist for standards, sustainability, health & safety and legal.
+Absence, or insufficient completion, of this checklist will result in the rejection of the proposal or report.
+Please use this checklist as a guide to help you express these topics in your reports, and to summarize them.
+This checklist must be completed in full by each capstone team member and submitted with the final project
+proposal (Capstone !) and final project report (Capstone I). Where appropriate, responses should relate to your
+sub-system and area of responsibility. Write full sentences; simply answering “yes” or “no” will not be accepted.
+Student name: Batuhan Sedat Kolbas Student id: 2002436 Course: CMP4991
+Project Title: Invoice Processing and Classification Project Date: 15/12/2024
+System with OCR and Named Entity Recognition code:1010922
+Provide a brief overview of your project
+The capstone project, created through teamwork, focuses on reducing manual data entry and boosting
+operational efficiency by leveraging Optical Character Recognition (OCR) technology. This initiative aims to
+address the growing challenges of inefficiencies and inaccuracies in managing invoices, which have become
+more pressing as businesses face an increasing number of invoices and evolving product usage conditions. By
+utilizing advanced technologies like OCR and Named Entity Recognition (NER), the project seeks to improve
+data extraction, classification, and processing while minimizing the need for human intervention. The system
+includes key features such as the ability to upload invoices in different formats, batch processing options, and
+user-friendly interfaces.
+Part A - Overview
+1. What are the main functional and performance requirements of your product or sub-system?
+*Supports PDF and JPG file formats, enabling batch uploads of invoices.
+*Utilizes OCR technology for text extraction, aiming for an accuracy rate of at least 85%.
+*Categorizes invoices into predefined groups (such as sales, purchase, proforma).
+*Extracts essential information (including vendor name, invoice date, total amount, etc.).
+*Guarantees secure storage in accordance with GDPR and KVKK regulations.
+2. What are the dominant design constraints for your product or sub-system?
+*Supports the English language.
+*Offers a scalable solution for processing a large volume of invoices.
+*Ensures compliance with GDPR and other legal regulations.
+3. Who will be the users of your product?
+Small and medium-sized enterprises (SMEs) and accounting departments are increasingly looking to
+implement automation.
+4. What realistic operating conditions have you assumed your product will be exposed to?
+*Efficiently handling substantial volumes of invoices in under ten seconds each.
+*Reliable operation with an annual uptime of no less than 99.5%.
+
+5. Other.
+Integration with current enterprise resource planning (ERP) and accounting systems to facilitate smooth
+workflow automation.
+Part B - Standards
+1. What safety standards apply to your product or sub-system? For example, ISO.
+ISO/IEC 27001 is a standard for managing information security. |
+2. Are there any basic standards (legal metrology) that apply to your product or sub-system?
+Compliance with GDPR and KVKK for the safeguarding of data and the privacy of users. |
+3. Are there any performance standards that apply to your product or sub-system?
+*The accuracy benchmarks for OCR exceed 85%.
+*The classification accuracy surpasses 95%.
+4. Are there any codes {government laws) that apply to your product or sub-system
+Compliance with electronic invoicing standards is essential in both domestic and international markets.
+5. Other.
+User verification and access management should be based on roles to ensure security. |
+Part C - Economic impacts
+1. Explain how you minimized the cost of your prototype, and how production costs could be reduced if the
+prototype were to be mass produced?
+*Used open-source libraries like Tesseract OCR and BERT to reduce prototype costs.
+*The ability to scale for mass production ensures cost savings through economies of scale.
+2. Compared to other similar products that are on the market, how does your design lead to cost savings for
+the user?
+Automation reduces the costs linked to manual labor. Faster processing speeds save time in operations
+and help boost overall efficiency.
+3. Would there be any tax incentives to be considered towards final product cost. For example, renewable
+energy and energy-efficient products tax incentives, carbon footprint reduction, etc.
+Eligibility for renewable energy and sustainability tax credits may arise from reduced reliance on physical
+invoices.
+4. Are there any environmental aspects, such as availability of resources that may affect the product cost and
+therefore price and market vulnerability?
+Cutting down on paper use contributes to sustainability objectives and reduces material expenses.
+5. Other.
+There are minimal infrastructure requirements for deployment. |
+
+Part D - Environmental impact
+1. Are there any greenhouse gas emissions related to the production or use of your product, what aspects of
+your design attempts to reduce those emissions?
+Emissions have been reduced thanks to a lesser dependence on physical documents and a stronger focus
+on digital processing.
+2. Does your product require usage of environmentally sensitive resources such as water, energy, wood, etc.
+and how does your design encourage efficient use of such resources?
+Decreased consumption of paper and energy in conventional invoice management practices. |
+3. Does your product rely on materials or resources that scarce (such as rare elements)? Has your design been
+adapted to make use of materials that are more abundant?
+System development is not dependent on scarce materials; it emphasizes the use of readily accessible
+resources.
+4. Does your product introduce or encourage different usage or behaviors that are more environmentally
+friendly?
+There is a significant movement towards embracing digital processes and transitioning away from paper-
+based operations.
+5. Other
+Using storage efficiently can contribute to lowering energy consumption. |
+Part E - Social impact
+1. In what way can your product impact people's lives (positively and negatively)? What design decisions have
+you made to maximize positive impact and minimize negative impact.
+Positive Impact: Alleviates the burden on employees, enhances operational efficiency.
+Negative Impact: Possible elimination of manual data entry positions.
+2. Does your product address any social needs?
+Automates routine tasks, enabling employees to concentrate on more strategic initiatives. |
+3. Who will benefit from this product?
+Small and medium-sized enterprises, accounting specialists, and entities dedicated to digital
+transformation.
+4. 1f your product were to be mass-produced, would it create new jobs, or destroy jobs?
+Creation: Opportunities in system development, maintenance, and support.
+Destruction: Reduction in demand for manual data entry roles.
+5. Other
+Promotes proficiency in technology and fosters innovation. |
+Part F - Health and safety
+1. What relevant health and safety laws or standards does your product or sub-system comply with?
+
+Adherence to occupational safety regulations for system operators. |
+2. What practices did you adopt during the development of your prototype to protect your own health and
+safety and the health and safety of those around you?
+*Implementing secure coding methodologies to mitigate cyber threats.
+*Conducting routine system evaluations to prevent malfunctions.
+3. What design decisions did you make to increase the safety of your product or sub-system?
+*Establishing role-based access control measures to protect against unauthorized access.
+*Employing encryption techniques to ensure the security of sensitive financial data.
+4. Can your product be used in any way that can impact the health and safety of the user or others?
+Minimal physical hazards; cyber threats addressed through established security protocols.
+5. Other
+Training provided for safe and effective utilization of system.
+Part G - Legal
+1. What laws or regulations apply to your product?
+GDPR, KVKK, and electronic invoicing laws.
+2. The manufacturer of a product is liable for any damage or harm that results because of a defect. What harmful
+defects could occur during mass production of your product, and how could they be minimized?
+*Potential misclassification in OCR is addressed through comprehensive testing and consistent updates.
+*Data breaches are averted by implementing secure storage solutions and encryption methods.
+3. Have you violated any licenses or patents in the development of your prototype? Would there be any such
+violations if the product were mass produced? How have you mitigated such issues?
+Utilizing open-source libraries mitigates the risk of patent infringement, with compliance guaranteed by
+comprehensive legal examination.
+4. What security and privacy laws are relevant to your product or sub-system, and what aspects of your design
+ensure that these laws are adhered to?
+GDPR-compliant design for data storage, processing, and user access. |
+5. Other
+Periodic assessments to guarantee continuous adherence to regulations. |
+Part H - Others
+Do you have any other relevant information to share related to your design experience regarding standards,
+sustainability, health & safety and legal aspects of your capstone project?
+The project is meticulously crafted to guarantee sustainability, scalability, and adherence to industry
+standards, offering a dependable and innovative approach to addressing invoice processing challenges.
+
+--- spaCy Entities ---
+Capstone - ORG
+Capstone - ORG
+Capstone - ORG
+Batuhan - GPE
+2002436 - DATE
+Invoice Processing and Classification Project Date - ORG
+OCR - ORG
+Optical Character Recognition - ORG
+OCR - ORG
+OCR - ORG
+at least 85% - PERCENT
+GDPR - ORG
+KVKK - ORG
+2 - CARDINAL
+English - LANGUAGE
+GDPR - ORG
+3 - CARDINAL
+4 - CARDINAL
+under ten seconds - TIME
+annual - DATE
+no less than 99.5% - PERCENT
+5 - CARDINAL
+ERP - ORG
+1 - CARDINAL
+ISO/IEC 27001 - ORG
+2 - CARDINAL
+GDPR - ORG
+KVKK - ORG
+3 - CARDINAL
+OCR - ORG
+85% - PERCENT
+95% - PERCENT
+4 - CARDINAL
+5 - CARDINAL
+1 - CARDINAL
+Tesseract OCR - ORG
+BERT - ORG
+2 - CARDINAL
+3 - CARDINAL
+4 - CARDINAL
+5 - CARDINAL
+1 - CARDINAL
+2 - CARDINAL
+3 - CARDINAL
+4 - CARDINAL
+5 - CARDINAL
+1 - CARDINAL
+2 - CARDINAL
+3 - CARDINAL
+4 - CARDINAL
+1f - CARDINAL
+5 - CARDINAL
+1 - CARDINAL
+2 - CARDINAL
+3 - CARDINAL
+4 - CARDINAL
+5 - CARDINAL
+1 - CARDINAL
+GDPR - ORG
+KVKK - ORG
+2 - CARDINAL
+OCR - ORG
+3 - CARDINAL
+4 - CARDINAL
+5 - CARDINAL

@@ -1,0 +1,23 @@
+=== Extracted Text ===
+Arda Okula Baslıyor
+
+Arda, köyde yaşayan 6 yaşında bir çocuktu. Bu sene okula başlaması
+gerekiyordu ama Arda istemiyordu. Okul açılınca, babası Arda'gı okula
+götürdü.
+
+Arda, öğretmenin anlattıklarından ve yazdıklarından hiçbir şey an-
+lamiyordu. Hergün okuldan kaçarak eve geliyordu. Sonunda babası onu
+okula götürmekten vazgeçti ve evde oturmasına müsade etti.
+
+Arda bir sabah çayırlara uzanmışken elinin üzerine bir karınca çıktı.
+Karıncanın ağzında bir susam tanesi vardı. Arda üfleyerek karıncayı
+uzaklaştırdı. Bir süre sonra karınca susamla birlikte tekrar Arda'nın eli-
+ne çıktı. Arda karıncayı tekrar uzaklaştırdı ama karınca vazgeçmiyordu.
+Arda uzaklaştırdıkça karınca geri dönüyordu.
+
+Arda karıncanın bu kararlı halinden çok etkilenmişti. Ertesi gün oku-
+luna geri döndü. Kendisi icin ne kadar zor olsa da gayret göstererek
+okuma yazmay! dgrendi ve cok caliskan bir Sgrenci oldu.
+
+--- spaCy Entities ---
+Arda'gı - PERSON

@@ -1,0 +1,58 @@
+=== Extracted Text ===
+g( GRUBU FATURA
+Ataturk Mah Gazi BulvariNo 12
+10100 Kares/Batikesir
+10212125 24 25 Fatura No: 002
+merhaba@harikasite web tr Duzenlenme Tarihi: 3 Temmuz 2030
+ALICI BILGILERI Helin Kinay-Giinay İç Tasarim
+Ataturk Mah Gazi BulvariNo 12
+10100 KaresyBa‘ikesr
+merhabagpharikasite web tr
+ACIKLAMA MIKTAR KOV  BİRİMFİYATI — TOPLAM
+MERMER 25 1 100,00 TL 250,00 TL
+GRANİT 5 1 125,00 TL 625,00 TL
+FAYANS 5 1 250,00 TL 125,00 TL
+SERAMIK 1 1 150,00 TL 150,00 TL
+EPOKSİ 3 1 150,00 TL 450,00 TL
+ARATOPLAM : — 5200.00 TL
+VERGİLER : — 915
+TOPLAMFİYAT: — 8400,00 TL
+ÖDEME BİLGİSİ
+Hesap Adi CEREN DERTSIZ
+"Lore C5U™ door st amet consectetur adipiscing elit
+Hesaa No 123 465 7890 Curabit at see oro: faucibus egal Futons sed @umresd
+Odeme Vades! 3 Temmuz 2030 098195 arcu Proms herdront sibeedum reque vel varius
+BİZİ TERCIH ETTIGINIZ ICIN TESEKKUR EDERIZ.
+
+--- spaCy Entities ---
+GRUBU FATURA
+Ataturk Mah Gazi BulvariNo - ORGANIZATION
+10100 Kares - MONEY
+3 Temmuz - TIME
+Helin Kinay - PERSON
+Giinay İç Tasarim
+Ataturk Mah Gazi BulvariNo - ORGANIZATION
+00 TL - MONEY
+00 TL
+GRANİT - MONEY
+00 TL - MONEY
+00 TL - MONEY
+00 TL - MONEY
+00 TL - MONEY
+00 TL - MONEY
+00 TL
+EPOKSİ - MONEY
+00 TL - MONEY
+00 TL
+ARATOPLAM - MONEY
+5200.00 TL - MONEY
+915
+TOPLAMFİYAT - MONEY
+00 TL - MONEY
+Lore C5U™ door st amet consectetur adipiscing elit
+Hesaa No - ORGANIZATION
+465 7890 Curabit - MONEY
+Futons sed @umresd
+Odeme Vades - ORGANIZATION
+Temmuz 2030 - TIME
+098195 arcu Proms herdront - MONEY
